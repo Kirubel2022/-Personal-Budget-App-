@@ -28,7 +28,6 @@ public class PersonalBudgetApp {
 		System.out.println("10) Enter your  expense");
 		System.out.println("11) totalExpense");
 		System.out.println("12)  balance");
-		System.out.println("0) Exit");
 
 		double totalIncome;//it will hold total source of income
 		double commissions;//it will hold the amount of tips(commissions)
